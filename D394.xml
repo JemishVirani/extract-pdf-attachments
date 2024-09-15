@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<declaratie394 luna="10" an="2022" tip_D394="L" sistemTVA="0" op_efectuate="1" prsAfiliat="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mfp:anaf:dgti:d394:declaratie:v4 D394.xsd" xmlns="mfp:anaf:dgti:d394:declaratie:v4" cui="8106784" den="S.C. KLIGOR SRL" adresa="TECUCI str. ALEEA MATEI BASARAB nr. 22 cod postal 805300 jud. GALATI" telefon="0236819321" caen="4711" totalPlata_A="2684298" cifR="1511023173169" denR="CRISAN GABRIEL" functie_reprez="ADMINISTRATOR" adresaR="TECUCI" telefonR="0765268000" tip_intocmit="0" den_intocmit="CRISAN GABRIEL" cif_intocmit="30948665" calitate_intocmit="ADMINISTRATOR                       " optiune="1">
+<informatii nrCui1="228" nrCui2="38" nrCui3="0" nrCui4="0" nr_BF_i1="105730" incasari_i1="3990658" incasari_i2="2074" nrFacturi_terti="0" nrFacturi_benef="4" nrFacturi="110" nrFacturiL_PF="0" nrFacturiLS_PF="0" val_LS_PF="0" tvaDedAI24="0" tvaDedAI20="0" tvaDedAI19="7083" tvaDedAI9="4466" tvaDedAI5="0" solicit="0"/>
+	<rezumat1 tip_partener="1" cota="0" facturiLS="0" bazaLS="0" facturiAS="0" bazaAS="0" facturiV="1" bazaV="1505">
+	<detaliu  bun="22" nrLivV="1" bazaLivV="1505"/>
+	</rezumat1>
+	<rezumat1 tip_partener="1" cota="5" facturiL="0" bazaL="0" tvaL="0" facturiA="0" bazaA="10504" tvaA="525" facturiAI="0" bazaAI="0" tvaAI="0" facturiC="0" bazaC="0" tvaC="0"/>
+	<rezumat1 tip_partener="1" cota="9" facturiL="4" bazaL="1488" tvaL="134" facturiA="2512" bazaA="1627034" tvaA="146434" facturiAI="150" bazaAI="75968" tvaAI="6835" facturiC="0" bazaC="0" tvaC="0"/>
+	<rezumat1 tip_partener="1" cota="19" facturiL="6" bazaL="40272" tvaL="7652" facturiA="594" bazaA="885022" tvaA="168156" facturiAI="13" bazaAI="25927" tvaAI="4927" facturiC="1" bazaC="4500" tvaC="855">
+	<detaliu  bun="23" nrAchizC="0" bazaAchizC="4500" tvaAchizC="855"/>
+	</rezumat1>
+<rezumat1 tip_partener="2"  cota="9" facturiL="16" bazaL="12689" tvaL="1143"/>
+<rezumat1 tip_partener="2"  cota="19" facturiL="1" bazaL="628" tvaL="119"/>
+<rezumat1 tip_partener="2"  cota="0" facturiLS="0" bazaLS="0" facturiN="34" document_N="1" bazaN="17527">
+</rezumat1>
+<rezumat1 tip_partener="2"  cota="0" facturiN="30" document_N="2" bazaN="28865">
+	 <detaliu bun="34"  nrN="30" valN="28865"/>
+</rezumat1>
+<rezumat2 cota="24"  bazaFSLcod="0" TVAFSLcod="0" bazaFSL="0" TVAFSL="0" bazaFSA="0" TVAFSA="0" bazaFSAI="0" TVAFSAI="0" bazaBFAI="0" TVABFAI="0" nrFacturiL="0" bazaL="0" tvaL="0" nrFacturiA="0" bazaA="0" tvaA="0" nrFacturiAI="0" bazaAI="0" tvaAI="0" bazaL_PF="0" tvaL_PF="0"/>
+<rezumat2 cota="20"  bazaFSLcod="0" TVAFSLcod="0" bazaFSL="0" TVAFSL="0" bazaFSA="0" TVAFSA="0" bazaFSAI="0" TVAFSAI="0" bazaBFAI="0" TVABFAI="0" nrFacturiL="0" bazaL="0" tvaL="0" nrFacturiA="0" bazaA="0" tvaA="0" nrFacturiAI="0" bazaAI="0" tvaAI="0" baza_incasari_i1="0" tva_incasari_i1="0" baza_incasari_i2="0" tva_incasari_i2="0" bazaL_PF="0" tvaL_PF="0"/>
+<rezumat2 cota="19"  bazaFSLcod="0" TVAFSLcod="0" bazaFSL="0" TVAFSL="0" bazaFSA="0" TVAFSA="0" bazaFSAI="0" TVAFSAI="0" bazaBFAI="1334" TVABFAI="253" nrFacturiL="7" bazaL="40900" tvaL="7771" nrFacturiA="595" bazaA="889522" tvaA="169011" nrFacturiAI="13" bazaAI="25927" tvaAI="4927" baza_incasari_i1="1298576" tva_incasari_i1="246716" baza_incasari_i2="0" tva_incasari_i2="0" bazaL_PF="0" tvaL_PF="0"/>
+<rezumat2 cota="9"  bazaFSLcod="0" TVAFSLcod="0" bazaFSL="0" TVAFSL="0" bazaFSA="0" TVAFSA="0" bazaFSAI="0" TVAFSAI="0" bazaBFAI="0" TVABFAI="0" nrFacturiL="20" bazaL="14177" tvaL="1277" nrFacturiA="2512" bazaA="1627034" tvaA="146434" nrFacturiAI="150" bazaAI="75968" tvaAI="6835" baza_incasari_i1="2229551" tva_incasari_i1="200661" baza_incasari_i2="1903" tva_incasari_i2="171" bazaL_PF="0" tvaL_PF="0"/>
+<rezumat2 cota="5"  bazaFSLcod="0" TVAFSLcod="0" bazaFSL="0" TVAFSL="0" bazaFSA="0" TVAFSA="0" bazaFSAI="0" TVAFSAI="0" bazaBFAI="0" TVABFAI="0" nrFacturiL="0" bazaL="0" tvaL="0" nrFacturiA="0" bazaA="10504" tvaA="525" nrFacturiAI="0" bazaAI="0" tvaAI="0" baza_incasari_i1="14433" tva_incasari_i1="722" baza_incasari_i2="0" tva_incasari_i2="0" bazaL_PF="0" tvaL_PF="0"/>
+<serieFacturi tip="1"  serieI="-" nrI="1695" nrF="0"/>
+<serieFacturi tip="1"  serieI="-" nrI="4594" nrF="0"/>
+<serieFacturi tip="1"  serieI="-" nrI="4626" nrF="0"/>
+<serieFacturi tip="1"  serieI="-" nrI="4975" nrF="0"/>
+<serieFacturi tip="1"  serieI="-" nrI="5154" nrF="0"/>
+<serieFacturi tip="2"  serieI="-" nrI="411" nrF="5760"/>
+<serieFacturi tip="3"  serieI="-" nrI="83248841" nrF="83248844" den="QUADRANT - AMROQ BEVERAGES SRL" cui="6811508"/>
+<lista  caen="56103" cota="19" operat="2" valoare="30161" tva="5731"/>
+<facturi  tip_factura="1" nr="411"/>
+<facturi  tip_factura="1" nr="412"/>
+<facturi  tip_factura="1" nr="5721"/>
+<facturi  tip_factura="1" nr="5722"/>
+<facturi  tip_factura="1" nr="413"/>
+<facturi  tip_factura="1" nr="414"/>
+<facturi  tip_factura="1" nr="5723"/>
+<facturi  tip_factura="1" nr="215"/>
+<facturi  tip_factura="1" nr="216"/>
+<facturi  tip_factura="1" nr="217"/>
+<facturi  tip_factura="1" nr="218"/>
+<facturi  tip_factura="1" nr="415"/>
+<facturi  tip_factura="1" nr="416"/>
+<facturi  tip_factura="1" nr="417"/>
+<facturi  tip_factura="1" nr="5724"/>
+<facturi  tip_factura="1" nr="5725"/>
+<facturi  tip_factura="1" nr="219"/>
+<facturi  tip_factura="1" nr="220"/>
+<facturi  tip_factura="1" nr="221"/>
+<facturi  tip_factura="1" nr="222"/>
+<facturi  tip_factura="1" nr="223"/>
+<facturi  tip_factura="1" nr="224"/>
+<facturi  tip_factura="1" nr="418"/>
+<facturi  tip_factura="1" nr="419"/>
+<facturi  tip_factura="1" nr="5726"/>
+<facturi  tip_factura="1" nr="5727"/>
+<facturi  tip_factura="1" nr="420"/>
+<facturi  tip_factura="1" nr="421"/>
+<facturi  tip_factura="1" nr="422"/>
+<facturi  tip_factura="1" nr="423"/>
+<facturi  tip_factura="1" nr="5728"/>
+<facturi  tip_factura="1" nr="225"/>
+<facturi  tip_factura="1" nr="226"/>
+<facturi  tip_factura="1" nr="227"/>
+<facturi  tip_factura="1" nr="5729"/>
+<facturi  tip_factura="1" nr="5730"/>
+<facturi  tip_factura="1" nr="424"/>
+<facturi  tip_factura="1" nr="425"/>
+<facturi  tip_factura="1" nr="5731"/>
+<facturi  tip_factura="1" nr="426"/>
+<facturi  tip_factura="1" nr="427"/>
+<facturi  tip_factura="1" nr="428"/>
+<facturi  tip_factura="1" nr="5732"/>
+<facturi  tip_factura="1" nr="228"/>
+<facturi  tip_factura="1" nr="229"/>
+<facturi  tip_factura="1" nr="5733"/>
+<facturi  tip_factura="1" nr="5734"/>
+<facturi  tip_factura="1" nr="429"/>
+<facturi  tip_factura="1" nr="430"/>
+<facturi  tip_factura="1" nr="431"/>
+<facturi  tip_factura="1" nr="5735"/>
+<facturi  tip_factura="1" nr="5736"/>
+<facturi  tip_factura="1" nr="5737"/>
+<facturi  tip_factura="1" nr="5738"/>
+<facturi  tip_factura="1" nr="230"/>
+<facturi  tip_factura="1" nr="5739"/>
+<facturi  tip_factura="1" nr="432"/>
+<facturi  tip_factura="1" nr="433"/>
+<facturi  tip_factura="1" nr="5740"/>
+<facturi  tip_factura="1" nr="5741"/>
+<facturi  tip_factura="1" nr="5742"/>
+<facturi  tip_factura="1" nr="5743"/>
+<facturi  tip_factura="1" nr="5744"/>
+<facturi  tip_factura="1" nr="5745"/>
+<facturi  tip_factura="1" nr="231"/>
+<facturi  tip_factura="1" nr="232"/>
+<facturi  tip_factura="1" nr="5746"/>
+<facturi  tip_factura="1" nr="434"/>
+<facturi  tip_factura="1" nr="5747"/>
+<facturi  tip_factura="1" nr="5748"/>
+<facturi  tip_factura="1" nr="5749"/>
+<facturi  tip_factura="1" nr="5750"/>
+<facturi  tip_factura="1" nr="5751"/>
+<facturi  tip_factura="1" nr="5753"/>
+<facturi  tip_factura="1" nr="5754"/>
+<facturi  tip_factura="1" nr="233"/>
+<facturi  tip_factura="1" nr="234"/>
+<facturi  tip_factura="1" nr="435"/>
+<facturi  tip_factura="1" nr="5755"/>
+<facturi  tip_factura="1" nr="5756"/>
+<facturi  tip_factura="1" nr="436"/>
+<facturi  tip_factura="1" nr="437"/>
+<facturi  tip_factura="1" nr="5757"/>
+<facturi  tip_factura="1" nr="5758"/>
+<facturi  tip_factura="1" nr="5759"/>
+<facturi  tip_factura="1" nr="5760"/>
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="15739061" denP="ADIDAS RO" nrFact="38" baza="60177" tva="11434" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="1928648" denP="ALDIS" nrFact="20" baza="4960" tva="446" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6266134" denP="NOY BUSINESS TRANZACTIONS (ALEX&amp;COMP)" nrFact="94" baza="68254" tva="6143" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6266134" denP="NOY BUSINESS TRANZACTIONS (ALEX&amp;COMP)" nrFact="0" baza="87" tva="16" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="1633027" denP="AGRICULTORUL" nrFact="3" baza="3424" tva="308" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="9415443" denP="ALKA TRADING" nrFact="8" baza="13364" tva="1203" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="1626542" denP="ANDRADA" nrFact="43" baza="73707" tva="14005" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="4921857" denP="ANTIA STAR" nrFact="4" baza="1211" tva="109" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="16914128" denP="APA CANAL SA" nrFact="1" baza="969" tva="87" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6484554" denP="AQUILA PART PROD COM" nrFact="89" baza="79032" tva="7113" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6484554" denP="AQUILA PART PROD COM" nrFact="17" baza="6666" tva="1267" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6671412" denP="AURORA COM" nrFact="24" baza="19571" tva="1761" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="14327259" denP="AVI-TOP" nrFact="13" baza="6320" tva="569" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="1437373" denP="AVICOLA FOCSANI SA" nrFact="104" baza="65319" tva="5879" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="1436882" denP="AVIPUTNA" nrFact="4" baza="8797" tva="792" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6804306" denP="BALCANIC PROD" nrFact="2" baza="17654" tva="3354" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6726755" denP="BETTY ICE" nrFact="5" baza="3704" tva="333" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="27663684" denP="BIG PANDA RETAIL" nrFact="36" baza="31586" tva="2843" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6366621" denP="CARLSROM BEVERAGE CO" nrFact="1" baza="-14" tva="-3" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="11588780" denP="CARREFOUR ROMANIA SA" nrFact="9" baza="32605" tva="2934" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11588780" denP="CARREFOUR ROMANIA SA" nrFact="2" baza="1404" tva="267" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="11354240" denP="CARUL CU BERE 95" nrFact="22" baza="12681" tva="1141" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11354240" denP="CARUL CU BERE 95" nrFact="17" baza="13407" tva="2547" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="4705349" denP="CARNIPROD" nrFact="11" baza="18178" tva="1636" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="4705349" denP="CARNIPROD" nrFact="4" baza="0" tva="0" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6543790" denP="CAROLI FOODS GROUP" nrFact="40" baza="18634" tva="1677" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14774435" denP="UP ROMANIA (CHEQUE DEJEUNER ROMANIA)" nrFact="3" baza="5774" tva="1097" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11952970" denP="COSMOTE-TELEKOM ROMANIA MOBILE COMMUNICATIONS SA" nrFact="1" baza="1319" tva="251" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="474152" denP="COCA COLA HBC ROMANIA" nrFact="5" baza="9662" tva="870" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="13238200" denP="COS 2000 DISTRIBUTION" nrFact="29" baza="80176" tva="15233" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6561703" denP="CRIS-TIM COMPANIE DE FAMILIE S.R.L." nrFact="38" baza="28668" tva="2580" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="2816464" denP="DEDEMAN" nrFact="1" baza="1255" tva="238" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="11411737" denP="DELACO DISTRIBUTION" nrFact="19" baza="22410" tva="2017" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="10696741" denP="EDENRED ROMANIA" nrFact="7" baza="2204" tva="419" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6334190" denP="EDYTEC" nrFact="12" baza="9731" tva="876" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="4071993" denP="ELGEKA FERFELIS ROMANIA" nrFact="10" baza="2224" tva="200" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="4071993" denP="ELGEKA FERFELIS ROMANIA" nrFact="23" baza="13289" tva="2525" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6983066" denP="EUTON" nrFact="2" baza="1387" tva="263" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="13838336" denP="FAN COURIER EXPRESS" nrFact="2" baza="1435" tva="273" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="12515795" denP="FARES TRADING" nrFact="7" baza="1944" tva="175" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="199150" denP="FARMEC" nrFact="11" baza="8179" tva="1554" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="18959720" denP="FLEXOMATEI" nrFact="2" baza="3953" tva="751" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="15096594" denP="FOX COM SERV DISTRIBUTION" nrFact="31" baza="31477" tva="2833" />
+	<op1  tip="A" tip_partener="1" cota="5" cuiP="6632642" denP="FRIESLAND CAMPINA ROMANIA" nrFact="0" baza="6564" tva="328" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6632642" denP="FRIESLAND CAMPINA ROMANIA" nrFact="18" baza="13903" tva="1251" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="5288797" denP="GENERAL AGRO COM SERVICE" nrFact="12" baza="6969" tva="627" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="9257645" denP="GINAVIDOR" nrFact="9" baza="2305" tva="208" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="11059917" denP="GREEN POWER DISTRIBUTION" nrFact="12" baza="6405" tva="576" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11059917" denP="GREEN POWER DISTRIBUTION" nrFact="9" baza="2629" tva="500" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="5520446" denP="GRIFON SEREX" nrFact="47" baza="20654" tva="1859" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="13262747" denP="GROUP AS" nrFact="2" baza="4115" tva="782" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="1997087" denP="INDUSTRIALIZAREA CARNII KOSAROM" nrFact="12" baza="7422" tva="668" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="3414392" denP="INFODATA" nrFact="2" baza="-1681" tva="-319" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="3786280" denP="INTERBRANDS ORBICO S.R.L." nrFact="3" baza="5379" tva="484" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="3786280" denP="INTERBRANDS ORBICO S.R.L." nrFact="32" baza="66429" tva="12621" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="5110535" denP="JT INTERNATIONAL RO" nrFact="14" baza="84356" tva="16028" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6931385" denP="LACTO SINELLI (LACTO MUNTEAN)" nrFact="5" baza="22482" tva="2023" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="13917944" denP="LAKTOTRIO 2001 PROD" nrFact="13" baza="3517" tva="317" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="5512842" denP="LOCKET TRADING" nrFact="63" baza="33226" tva="6313" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="14306272" denP="LUCIDIUS" nrFact="12" baza="68126" tva="6131" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14306272" denP="LUCIDIUS" nrFact="4" baza="23749" tva="4512" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="5052558" denP="MACROMEX" nrFact="16" baza="29204" tva="2628" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="9921769" denP="MADICOREX" nrFact="8" baza="4261" tva="383" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="8254403" denP="MANCO COM PROD 2010" nrFact="2" baza="9791" tva="881" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="8665131" denP="MANUMAR COMSERV" nrFact="36" baza="36313" tva="3268" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="8665131" denP="MANUMAR COMSERV" nrFact="1" baza="1513" tva="287" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="10374339" denP="MEDA PROD 98" nrFact="10" baza="2436" tva="219" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6675589" denP="MERIDIAN AGROIND" nrFact="8" baza="2408" tva="217" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="2847070" denP="MORIPAN ALEX" nrFact="61" baza="2772" tva="250" />
+	<op1  tip="A" tip_partener="1" cota="5" cuiP="6636202" denP="NORDIC IMPORT EXPORT CO" nrFact="0" baza="453" tva="23" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6636202" denP="NORDIC IMPORT EXPORT CO" nrFact="7" baza="9585" tva="863" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11201891" denP="OMV PETROM MARKETING" nrFact="11" baza="3362" tva="639" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="9010105" denP="ORANGE ROMANIA" nrFact="1" baza="663" tva="126" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="2263348" denP="ORIGINAL SERV" nrFact="8" baza="6453" tva="581" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="2263348" denP="ORIGINAL SERV" nrFact="2" baza="2192" tva="416" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="15796792" denP="OTI DISTRIBUTION VASLUI" nrFact="12" baza="25810" tva="4904" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="9755224" denP="OTTER DISTRIBUTION" nrFact="1" baza="29508" tva="5607" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="4068602" denP="PAJURA" nrFact="48" baza="2267" tva="204" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="5956160" denP="PANLUX" nrFact="45" baza="1950" tva="176" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="21985575" denP="PICCOLO ANGELO" nrFact="33" baza="9562" tva="861" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="1432848" denP="PLASTMET JVS" nrFact="9" baza="10709" tva="2035" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="4661846" denP="POLARIS PROD COM SERV IMPEX" nrFact="14" baza="40664" tva="3660" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="4661846" denP="POLARIS PROD COM SERV IMPEX" nrFact="0" baza="4438" tva="843" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="7454780" denP="PROFIPET COM" nrFact="1" baza="3958" tva="356" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="7454780" denP="PROFIPET COM" nrFact="1" baza="1887" tva="359" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="11885854" denP="PROGRES DISTRIBUTIE" nrFact="1" baza="756" tva="68" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11885854" denP="PROGRES DISTRIBUTIE" nrFact="6" baza="7372" tva="1401" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="21082194" denP="PUMA SPORTS ROMANIA" nrFact="2" baza="112616" tva="21397" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="14476897" denP="RACRICOM" nrFact="24" baza="5164" tva="465" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14476897" denP="RACRICOM" nrFact="6" baza="2364" tva="449" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="5888716" denP="RCS&amp;RDS SA" nrFact="1" baza="298" tva="57" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6542701" denP="REVIVAL" nrFact="3" baza="7137" tva="1356" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="13348610" denP="REWE ROMANIA" nrFact="1" baza="1667" tva="150" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="13348610" denP="REWE ROMANIA" nrFact="6" baza="4602" tva="874" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6842083" denP="ROMPRIX EXIM" nrFact="1" baza="1111" tva="211" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="427320" denP="ORANGE COMMUNICATION ROMANIA SA" nrFact="1" baza="664" tva="126" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="18774861" denP="SALBAC" nrFact="13" baza="6854" tva="617" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11530967" denP="SCHINDLER ROMANIA" nrFact="1" baza="1197" tva="227" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="11805367" denP="SELGROS CASH&amp;CARRY" nrFact="10" baza="16874" tva="1519" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11805367" denP="SELGROS CASH&amp;CARRY" nrFact="0" baza="931" tva="177" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="18939536" denP="SILVERMALL" nrFact="0" baza="340" tva="31" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="18939536" denP="SILVERMALL" nrFact="2" baza="8324" tva="1582" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="9459059" denP="SIMBA INVEST" nrFact="29" baza="39693" tva="3572" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="9459059" denP="SIMBA INVEST" nrFact="2" baza="155" tva="29" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="5882306" denP="SLIK IMPEX" nrFact="54" baza="41689" tva="3752" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="5882306" denP="SLIK IMPEX" nrFact="1" baza="287" tva="54" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="11071295" denP="SODEXO PASS ROMANIA" nrFact="2" baza="1720" tva="327" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="5300319" denP="START" nrFact="0" baza="469" tva="42" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="5300319" denP="START" nrFact="10" baza="4730" tva="899" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="30882900" denP="TIXYROM DISTRIBUTION" nrFact="15" baza="17241" tva="1552" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="30882900" denP="TIXYROM DISTRIBUTION" nrFact="12" baza="18286" tva="3474" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="97800" denP="TRANSILVANIA GENERAL IMP EXP" nrFact="9" baza="11214" tva="1009" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="97800" denP="TRANSILVANIA GENERAL IMP EXP" nrFact="2" baza="1589" tva="302" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6531770" denP="UNICARM" nrFact="24" baza="3054" tva="275" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="13728104" denP="VANBET" nrFact="6" baza="21595" tva="1944" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="21229091" denP="VEL PITAR SA" nrFact="153" baza="42810" tva="3853" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6236150" denP="VELVET COM" nrFact="1" baza="998" tva="190" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14684901" denP="VIPGUARD" nrFact="2" baza="13505" tva="2566" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="17853525" denP="SARETEC AVR SRL" nrFact="3" baza="2753" tva="248" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="17853525" denP="SARETEC AVR SRL" nrFact="0" baza="336" tva="64" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="17547941" denP="IKEA ROMANIA" nrFact="1" baza="4915" tva="934" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="8971726" denP="VODAFONE ROMANIA" nrFact="2" baza="355" tva="67" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="1755369" denP="ALBALACT" nrFact="47" baza="39078" tva="3517" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="16075689" denP="NORDELECTRIC SRL" nrFact="1" baza="537" tva="102" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="8475730" denP="CARTER TRADING" nrFact="4" baza="4616" tva="415" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="1638369" denP="FLOREX M" nrFact="1" baza="109" tva="21" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14413635" denP="ART &amp; CRAFT RO" nrFact="1" baza="6777" tva="1288" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="30838158" denP="ZOZO CAFE DISTRIBUTION" nrFact="1" baza="19427" tva="1748" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="30838158" denP="ZOZO CAFE DISTRIBUTION" nrFact="0" baza="625" tva="119" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6542736" denP="DECOVILE" nrFact="1" baza="4075" tva="774" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="25404942" denP="CIURESCU VIOLETA II" nrFact="13" baza="2972" tva="268" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="12992654" denP="GRIGOTEC" nrFact="78" baza="27165" tva="2445" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="3264350" denP="DANIEL" nrFact="1" baza="2053" tva="185" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="3264350" denP="DANIEL" nrFact="9" baza="2777" tva="528" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="1642602" denP="VILA SA" nrFact="2" baza="-6905" tva="-1312" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="32096870" denP="STEFAN MARKETING" nrFact="3" baza="13331" tva="1200" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="15991149" denP="KAUFLAND ROMANIA SCS" nrFact="2" baza="829" tva="75" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="30782847" denP="MONDEX DISTRIBUTIE" nrFact="2" baza="3522" tva="669" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="32565852" denP="SERVICE 1 TECHNOLOGY" nrFact="2" baza="4934" tva="937" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="2433906" denP="ILVAS" nrFact="21" baza="11605" tva="1044" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="32608163" denP="VGB 2014" nrFact="289" baza="45182" tva="4066" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="8808452" denP="BRITISH AMERICAN TOBACCO ROMANIA TRADING" nrFact="26" baza="127980" tva="24316" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14301178" denP="B&amp;G ACTIV FAMILY" nrFact="2" baza="4896" tva="930" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="32648575" denP="DCN EU RETAIL" nrFact="4" baza="32154" tva="6109" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="17954201" denP="EUROM CHROM DISTRIBUTION" nrFact="3" baza="8289" tva="1575" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="15724559" denP="LACTO PROD COM S.R.L." nrFact="26" baza="24078" tva="2167" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="32671292" denP="ART FAMILIAL DISTRIBUTION SRL" nrFact="4" baza="2622" tva="498" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="21070882" denP="INSTANT ICE SRL" nrFact="1" baza="424" tva="38" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="2864518" denP="ALTEX ROMANIA SRL" nrFact="1" baza="63" tva="12" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="3379619" denP="MARATHON DISTRIBUTION GROUP SRL" nrFact="49" baza="36828" tva="3314" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="829522" denP="VASCAR SA" nrFact="20" baza="5442" tva="490" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="27698631" denP="FLANCO RETAIL SA" nrFact="1" baza="4588" tva="872" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="33942721" denP="ARAM SWEET SRL" nrFact="1" baza="18338" tva="1650" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="33942721" denP="ARAM SWEET SRL" nrFact="0" baza="4503" tva="856" />
+	<op1  tip="A" tip_partener="1" cota="5" cuiP="6567188" denP="GENERAL SUHARDO COM SRL" nrFact="0" baza="440" tva="22" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6567188" denP="GENERAL SUHARDO COM SRL" nrFact="5" baza="2184" tva="197" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="18427757" denP="COMPANIA DE LOGISTICA SI DISTRIBUTIE WIT S.R.L." nrFact="7" baza="3094" tva="278" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="18427757" denP="COMPANIA DE LOGISTICA SI DISTRIBUTIE WIT S.R.L." nrFact="4" baza="2145" tva="408" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="26784173" denP="MISAVAN TRADING SRL" nrFact="1" baza="777" tva="148" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="35534516" denP="LA FANTANA SRL" nrFact="1" baza="196" tva="37" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="30913411" denP="HERA ROVANIEMI SRL" nrFact="1" baza="709" tva="135" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="16841271" denP="BOWEL PROCESSING S.A." nrFact="45" baza="18127" tva="1631" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="17057800" denP="ARELUX SRL" nrFact="1" baza="242" tva="46" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="15556250" denP="AREON IMPEX SRL" nrFact="2" baza="1195" tva="227" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="28952931" denP="EURO GRAINS TRADING SRL" nrFact="1" baza="685" tva="62" />
+	<op1  tip="A" tip_partener="1" cota="5" cuiP="550152" denP="COVALACT SA" nrFact="0" baza="198" tva="10" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="550152" denP="COVALACT SA" nrFact="52" baza="33311" tva="2998" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="3119988" denP="SALTEMPO SRL" nrFact="39" baza="19968" tva="1797" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="36968696" denP="ESTRADE DISTRIBUTION SRL" nrFact="5" baza="1084" tva="206" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="33067767" denP="SUPECO INVESTMENT SRL" nrFact="4" baza="3533" tva="318" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="7919550" denP="EMCOS COM S.R.L." nrFact="25" baza="12338" tva="1111" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="29358725" denP="COMPANIA DE UTILITATI PUBLICE TECUCI SRL" nrFact="1" baza="630" tva="120" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="10716873" denP="OCEAN FISH SRL" nrFact="8" baza="2457" tva="221" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="33979577" denP="ADO DISTRICONSULT SRL" nrFact="14" baza="9955" tva="896" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="33979577" denP="ADO DISTRICONSULT SRL" nrFact="5" baza="4238" tva="805" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="30579797" denP="KYRYCIN STAR SRL" nrFact="4" baza="6116" tva="550" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="5966997" denP="FILSAM PROD  SRL" nrFact="58" baza="68698" tva="6183" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="30632513" denP="PASSAGE FOOD SRL" nrFact="6" baza="1839" tva="166" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="30632513" denP="PASSAGE FOOD SRL" nrFact="1" baza="212" tva="40" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="24858410" denP="BLUESET IMPEX SRL" nrFact="5" baza="1311" tva="118" />
+	<op1  tip="A" tip_partener="1" cota="5" cuiP="38818865" denP="ARTESANA INTERNATIONAL S.R.L." nrFact="0" baza="1905" tva="95" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="38818865" denP="ARTESANA INTERNATIONAL S.R.L." nrFact="9" baza="7135" tva="642" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="22657711" denP="AQUABYG S.R.L." nrFact="2" baza="66" tva="6" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="21310535" denP="IT GENETICS SRL" nrFact="2" baza="1632" tva="310" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="12064199" denP="PORSCHE LEASING ROMANIA IFN SA" nrFact="4" baza="6286" tva="1194" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="22457535" denP="OLX ONLINE SERVICES SRL" nrFact="2" baza="263" tva="50" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="1805688" denP="ROMAFLORIMEX SRL" nrFact="1" baza="592" tva="112" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="18761195" denP="SOMOGYI ELEKTRONIC SRL" nrFact="2" baza="3513" tva="668" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="10201958" denP="SABGRUP SRL" nrFact="2" baza="750" tva="142" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="38238329" denP="GRANTEC MARM SRL" nrFact="1" baza="924" tva="176" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="33481407" denP="LAMY PREMIER SRL" nrFact="1" baza="200" tva="38" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14600820" denP="UNICREDIT LEASING CORPORATION IFN SA" nrFact="2" baza="7854" tva="1492" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="14872336" denP="SOF SERVICE SRL" nrFact="1" baza="808" tva="154" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="2816014" denP="AGRICOLA INTERNATIONAL SA" nrFact="9" baza="5598" tva="504" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="40672655" denP="EXIM HOST S.R.L." nrFact="1" baza="513" tva="97" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="9118655" denP="SINTROM SRL" nrFact="1" baza="147" tva="28" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="7487265" denP="VALEX INTERNATIONAL EXIM SRL" nrFact="5" baza="3559" tva="676" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="17929585" denP="SCALA ASSISTANCE S.R.L." nrFact="1" baza="399" tva="76" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="23775642" denP="DIVORI MEDIU EXPERT SRL" nrFact="1" baza="900" tva="171" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="32350586" denP="FALEXEM GROUP S.R.L." nrFact="2" baza="1578" tva="300" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="32266974" denP="PERFECT ELMA DISTRIBUTION SRL" nrFact="19" baza="4542" tva="409" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="3120044" denP="BETTY-COM SRL" nrFact="78" baza="20835" tva="1875" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="33990842" denP="CAFEO DIRECT SRL" nrFact="1" baza="1557" tva="140" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="39129672" denP="DULCE DE CASA AS S.R.L." nrFact="24" baza="20245" tva="1822" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="563934" denP="URBANA SA" nrFact="1" baza="56" tva="11" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="6614956" denP="STAR FOODS E.M. SRL" nrFact="1" baza="-785" tva="-71" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="37524497" denP="JADE CORAL SRL" nrFact="2" baza="8053" tva="1530" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="41465011" denP="SPORT TIME TRADE S.R.L." nrFact="1" baza="112709" tva="21415" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="13219828" denP="MCA COMERCIAL SRL" nrFact="17" baza="8933" tva="804" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="13219828" denP="MCA COMERCIAL SRL" nrFact="2" baza="573" tva="109" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="32196410" denP="GOFISH TRADE SRL" nrFact="9" baza="4784" tva="431" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="32101267" denP="PELICANUL FOOD ACTIV SRL" nrFact="1" baza="-63" tva="-6" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="41641371" denP="DACHIN SHENLONG S.R.L." nrFact="1" baza="477" tva="43" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="40930185" denP="GAMACRIS SATURN S.R.L." nrFact="1" baza="771" tva="69" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="40360491" denP="CHARMINA BEAUTY LINES S.R.L." nrFact="10" baza="2907" tva="552" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="41117351" denP="VELANTE OFFICIALE S.R.L." nrFact="1" baza="345" tva="65" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="15245920" denP="BILL SOLUTIONS SRL" nrFact="13" baza="5233" tva="471" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="22979989" denP="YUNUS MASLINE INTERNATIONAL SRL" nrFact="2" baza="9229" tva="831" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="24387371" denP="ENEL ENERGIE MUNTENIA SA" nrFact="3" baza="8119" tva="1543" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="16910797" denP="CASH &amp; CANDY SRL" nrFact="3" baza="819" tva="74" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="16910797" denP="CASH &amp; CANDY SRL" nrFact="3" baza="1960" tva="372" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="36223488" denP="COOPERATIVA AGRICOLA AGROLACT MOLDOVA" nrFact="14" baza="3975" tva="358" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="36533950" denP="SNACK-TRADE SRL" nrFact="11" baza="4385" tva="395" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="37403150" denP="ECOSMART UNION S.A." nrFact="1" baza="257" tva="49" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="36845138" denP="DELDAFI PLAST SRL" nrFact="4" baza="1935" tva="368" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="14444712" denP="ELIT S.R.L." nrFact="30" baza="10066" tva="906" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="6817640" denP="LINDAB SRL" nrFact="1" baza="-337365" tva="-64099" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="41079622" denP="SOFELA PREMIER S.R.L." nrFact="2" baza="8777" tva="790" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="25249881" denP="BISBAGS S.R.L." nrFact="1" baza="468" tva="89" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="39425171" denP="BARLAD VALUE CENTRE S.R.L." nrFact="1" baza="16642" tva="3162" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="42170043" denP="RCA ONLINE SALES GROUP S.R.L." nrFact="1" baza="676" tva="128" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="44809101" denP="PETERS COOLING S.R.L." nrFact="1" baza="924" tva="176" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="25753748" denP="FLEISCHPARTY SRL" nrFact="5" baza="1144" tva="103" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="9970656" denP="COMELECTRO BG S.R.L." nrFact="1" baza="126" tva="24" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="32638903" denP="MITSOFT.RO SRL" nrFact="1" baza="300" tva="57" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="17777320" denP="HORNBACH CENTRALA SRL" nrFact="2" baza="859" tva="163" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="35606370" denP="DADDY ACORD SRL" nrFact="1" baza="12790" tva="1151" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="35606370" denP="DADDY ACORD SRL" nrFact="5" baza="15060" tva="2861" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="37326015" denP="FUME DISTRIBUTION S.R.L." nrFact="1" baza="13310" tva="2529" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="27712345" denP="PICIRAM INVEST S.R.L." nrFact="1" baza="1254" tva="238" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="4225480" denP="BAMBUS SRL" nrFact="1" baza="2003" tva="381" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="16240328" denP="RAIBAK SRL" nrFact="1" baza="366" tva="69" />
+	<op1  tip="A" tip_partener="1" cota="5" cuiP="31099550" denP="PRODUSE TRADITIONALE GABIOTI DIN PLESCOI SRL" nrFact="0" baza="944" tva="47" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="31099550" denP="PRODUSE TRADITIONALE GABIOTI DIN PLESCOI SRL" nrFact="8" baza="3534" tva="318" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="34184650" denP="BASAROM GROUP SRL" nrFact="7" baza="3527" tva="317" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="34184650" denP="BASAROM GROUP SRL" nrFact="0" baza="69" tva="13" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="16585726" denP="VITISIM COTESTI SRL" nrFact="1" baza="7209" tva="1370" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="35633242" denP="WOODGRAD SRL" nrFact="1" baza="2899" tva="551" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="9540276" denP="RUSU EXPERT PRODUCT S.R.L." nrFact="7" baza="9345" tva="841" />
+	<op1  tip="A" tip_partener="1" cota="9" cuiP="42703634" denP="FILSAM MANAGEMENT S.R.L." nrFact="17" baza="19447" tva="1750" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="45554286" denP="EURO DRINKS DISTRIBUTION S.R.L." nrFact="1" baza="1919" tva="365" />
+	<op1  tip="A" tip_partener="1" cota="19" cuiP="41269465" denP="LEOPARD STAR S.R.L." nrFact="1" baza="41" tva="8" />
+	<op1  tip="AI" tip_partener="1" cota="9" cuiP="15460988" denP="ACS PRODUCT" nrFact="2" baza="1192" tva="107" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="9725878" denP="CONFIG SYS" nrFact="2" baza="2605" tva="495" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="26833187" denP="LIVE VISION" nrFact="1" baza="346" tva="66" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="14540671" denP="PETRANS" nrFact="3" baza="7781" tva="1478" />
+	<op1  tip="AI" tip_partener="1" cota="9" cuiP="30032365" denP="ROTNISMAR" nrFact="6" baza="223" tva="20" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="30032365" denP="ROTNISMAR" nrFact="1" baza="50" tva="10" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="15420037" denP="AIVANDA" nrFact="1" baza="218" tva="42" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="34347595" denP="FUORI CORSO FASHION SRL" nrFact="1" baza="1994" tva="379" />
+	<op1  tip="AI" tip_partener="1" cota="9" cuiP="31970970" denP="SOFIA DIB PROD SRL" nrFact="141" baza="73848" tva="6645" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="27757690" denP="RISTRETO CAFE" nrFact="1" baza="773" tva="147" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="42906264" denP="CONTSCAPE TEC S.R.L." nrFact="2" baza="2800" tva="532" />
+	<op1  tip="AI" tip_partener="1" cota="9" cuiP="34710096" denP="OVINEX TRADING SRL" nrFact="1" baza="705" tva="63" />
+	<op1  tip="AI" tip_partener="1" cota="19" cuiP="22780829" denP="DOI LEONI SRL" nrFact="1" baza="9360" tva="1778" />
+	<op1  tip="C" tip_partener="1" cota="19" cuiP="9921769" denP="MADICOREX" nrFact="1" baza="4500" tva="855" >
+	<op11  nrFactPR="0" codPR="23" bazaPR="4500" tvaPR="855" />
+	</op1>
+	<op1  tip="L" tip_partener="1" cota="19" cuiP="6811508" denP="QUADRANT - AMROQ BEVERAGES SRL" nrFact="4" baza="440" tva="84" />
+	<op1  tip="L" tip_partener="1" cota="9" cuiP="4210811" denP="ANDRA COMEXIM SRL" nrFact="3" baza="600" tva="54" />
+	<op1  tip="L" tip_partener="1" cota="19" cuiP="4210811" denP="ANDRA COMEXIM SRL" nrFact="0" baza="169" tva="32" />
+	<op1  tip="L" tip_partener="1" cota="9" cuiP="32608163" denP="VGB 2014 SRL" nrFact="1" baza="137" tva="12" />
+	<op1  tip="L" tip_partener="1" cota="9" cuiP="27329545" denP="TINERVIS GROUP SRL" nrFact="0" baza="751" tva="68" />
+	<op1  tip="L" tip_partener="1" cota="19" cuiP="27329545" denP="TINERVIS GROUP SRL" nrFact="2" baza="39663" tva="7536" />
+	<op1  tip="V" tip_partener="1" cota="0" cuiP="1454846" denP="VRANCART SA" nrFact="1" baza="1505" >
+	<op11  nrFactPR="1" codPR="22" bazaPR="1505" />
+	</op1>
+	<op1  tip="L" tip_partener="2" cota="9" cuiP="13629755" denP="GRADINITA NR 2" nrFact="14" baza="12540" tva="1129" />
+	<op1  tip="L" tip_partener="2" cota="19" cuiP="13629755" denP="GRADINITA NR 2" nrFact="0" baza="78" tva="15" />
+	<op1  tip="L" tip_partener="2" cota="9" cuiP="8355890" denP="GRILL MASTER S.R.L." nrFact="1" baza="108" tva="10" />
+	<op1  tip="L" tip_partener="2" cota="19" cuiP="38888119" denP="HOUSE MED HODOR S.R.L." nrFact="1" baza="550" tva="104" />
+	<op1  tip="L" tip_partener="2" cota="9" cuiP="27334045" denP="FUNDATIA INIMI SLUJITOARE" nrFact="1" baza="41" tva="4" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="22860340" denP="FIX ZECE MEDIA" tip_document="1" nrFact="1" baza="500" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="7746556" denP="SONOCLAR" tip_document="1" nrFact="1" baza="673" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="380449" denP="LIDAS PROD" tip_document="1" nrFact="1" baza="100" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1731002173164" denP="HLIZA LIVIU&amp;LUMINITA PFA" tip_document="2" nrFact="2" baza="8005" >
+	<op11  nrFactPR="2" codPR="34" bazaPR="8005" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="26007320" denP="VIPGUARD SECURITY SYSTEM" tip_document="1" nrFact="1" baza="450" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="35109087" denP="DUMITRACHE S MARIANA INTREPRINDERE INDIVIDUALA" tip_document="1" nrFact="2" baza="680" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="37535097" denP="RADUCAN CRISTI ANDREI INTREPRINDERE INDIVIDUALA" tip_document="1" nrFact="1" baza="1635" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1650301520010" denP="IFTIMIE DUMITRU" tip_document="2" nrFact="13" baza="860" >
+	<op11  nrFactPR="13" codPR="34" bazaPR="860" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="28509188" denP="DASCALU DRAGOMIR PERSOANA FIZICA AUTORIZATA" tip_document="1" nrFact="1" baza="700" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1510628173181" denP="RARINCA IONEL" tip_document="2" nrFact="1" baza="1449" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="1449" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="37628730" denP="GIUCASIL IMAC 2017 SRL" tip_document="1" nrFact="1" baza="75" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="39631945" denP="LOYAS MAXIMI S.R.L." tip_document="1" nrFact="1" baza="700" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="43810523" denP="CASCAVALUL LUI CULITA S.R.L." tip_document="1" nrFact="8" baza="1833" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1790806173189" denP="PANAITE RELU" tip_document="2" nrFact="3" baza="10889" >
+	<op11  nrFactPR="3" codPR="34" bazaPR="10889" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="44148522" denP="ISTRATE S. GHEORGHE INTREPRINDERE FAMILIALA" tip_document="1" nrFact="2" baza="671" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="28755697" denP="POHRIB COSTICA INTREPRINDERE INDIVIDUALA" tip_document="1" nrFact="1" baza="344" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="45913088" denP="CONDRACHE D. GINA PERSOANA FIZICA AUTORIZATA" tip_document="1" nrFact="6" baza="2056" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1651127173162" denP="ARHIP MARIAN P.F." tip_document="2" nrFact="1" baza="1180" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="1180" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="44907304" denP="STUPINA AVRAM S.R.L." tip_document="1" nrFact="2" baza="1395" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="5020707394429" denP="ANTONESCU ANDREI ALEX P.F." tip_document="2" nrFact="1" baza="1501" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="1501" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1940323171691" denP="CONDRACHE MIREL CATALIN P.F." tip_document="2" nrFact="1" baza="815" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="815" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1561207173175" denP="NARE CONSTANTIN P.F." tip_document="2" nrFact="1" baza="372" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="372" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="44293743" denP="DON CAR ATELIER DETAILING S.R.L." tip_document="1" nrFact="1" baza="1300" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="44273827" denP="GIFT BASKET S.R.L." tip_document="1" nrFact="1" baza="794" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1521010173171" denP="CHICOS MITICA P.F." tip_document="2" nrFact="2" baza="871" >
+	<op11  nrFactPR="2" codPR="34" bazaPR="871" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="2750225173213" denP="CONDRACHE IONICA P.F." tip_document="2" nrFact="1" baza="430" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="430" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="43965773" denP="NEGRUT C. IONEL INTREPRINDERE FAMILIALA" tip_document="1" nrFact="1" baza="345" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="7877640" denP="LAMUR COMIXT S.R.L." tip_document="1" nrFact="1" baza="2079" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="2790121173166" denP="ILIE VASILICA PERS.FIZ" tip_document="2" nrFact="1" baza="231" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="231" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="2950418226770" denP="NITU ELENA PERS FIZ" tip_document="2" nrFact="1" baza="595" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="595" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1850407226774" denP="BASESCU LIVIU LAURENTIU PERS,FIZ" tip_document="2" nrFact="1" baza="864" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="864" />
+	</op1>
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="36290550" denP="COSTEA VIOREL INTREPRINDERE INDIVIDUALA" tip_document="1" nrFact="1" baza="1197" />
+	<op1  tip="N" tip_partener="2" cota="0" cuiP="1591109173163" denP="PINTILIE NASTASA" tip_document="2" nrFact="1" baza="803" >
+	<op11  nrFactPR="1" codPR="34" bazaPR="803" />
+	</op1>
+	<op2  tip_op2="I1" luna="10" nrAMEF="16" nrBF="105730" total="3990658" baza5="14433" TVA5="722" baza9="2229551" TVA9="200661" baza19="1298576" TVA19="246716" baza20="0" TVA20="0"/>
+	<op2  tip_op2="I2" luna="10" total="2074" baza5="0" TVA5="0" baza9="1903" TVA9="171" baza19="0" TVA19="0" baza20="0" TVA20="0"/>
+</declaratie394>
